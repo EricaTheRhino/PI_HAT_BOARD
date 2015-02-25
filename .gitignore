@@ -1,0 +1,20 @@
+# gerber output files
+*.gpi
+*.gm1
+*.gbl
+*.gbp
+*.gbo
+*.gbs
+*.dri
+*.txt
+*.gtl
+*.gtp
+*.gto
+*.gts
+
+# stencil output files
+*.dxf
+
+#backup files
+*.s#*
+*.b#*
